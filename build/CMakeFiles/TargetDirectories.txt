@@ -1,0 +1,3 @@
+/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build/CMakeFiles/SdlCreateWindow.dir
+/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build/CMakeFiles/edit_cache.dir
+/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build/CMakeFiles/rebuild_cache.dir

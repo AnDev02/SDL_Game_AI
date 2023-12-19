@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/SdlCreateWindow.dir/src/main.cpp.o -c /Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/main.cpp",
+  "file": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/main.cpp",
+  "output": "CMakeFiles/SdlCreateWindow.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/SdlCreateWindow.dir/src/ball.cpp.o -c /Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/ball.cpp",
+  "file": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/ball.cpp",
+  "output": "CMakeFiles/SdlCreateWindow.dir/src/ball.cpp.o"
+},
+{
+  "directory": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/SdlCreateWindow.dir/src/commonFn.cpp.o -c /Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/commonFn.cpp",
+  "file": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/commonFn.cpp",
+  "output": "CMakeFiles/SdlCreateWindow.dir/src/commonFn.cpp.o"
+},
+{
+  "directory": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/SdlCreateWindow.dir/src/game.cpp.o -c /Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/game.cpp",
+  "file": "/Users/macos/Desktop/SDL-Assignment/sdl-game-dev/p1-sdl-create-app/src/game.cpp",
+  "output": "CMakeFiles/SdlCreateWindow.dir/src/game.cpp.o"
+}
+]
